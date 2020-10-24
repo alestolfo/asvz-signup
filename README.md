@@ -11,3 +11,4 @@ You might need to install [jq](https://stedolan.github.io/jq/) (`brew install jq
 - `time`: when you want your signup request to be sent, specified using the format "YYYY-MM-DD hh:mm:ss".
 - `token`: you know what this is.
 
+Shoutout to [Milos](https://github.com/mmalesev) for helping.
